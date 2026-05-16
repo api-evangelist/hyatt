@@ -7,11 +7,16 @@ tags:
   - Hospitality
   - Hotels
   - Travel
-description: 'A global hospitality company managing and franchising luxury and upscale hotels, resorts, and vacation properties. Operates brands including Park Hyatt, Grand Hyatt, Andaz, and Hyatt Regency across more than 70 countries.'
+description: 'A global hospitality company managing and franchising luxury and upscale hotels, resorts, and vacation properties. Operates brands including Park Hyatt, Grand Hyatt, Andaz, and Hyatt Regency across more than 70 countries. No public developer portal or open API catalogue was located; Hyatt distributes inventory through GDS and travel-industry channels rather than a public REST API surface.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.hyatt.com/
+  - type: CorporateSite
+    url: https://about.hyatt.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
